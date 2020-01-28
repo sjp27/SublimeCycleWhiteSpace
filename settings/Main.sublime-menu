@@ -16,7 +16,7 @@
                             {
                                 "command": "open_file", "args":
                                 {
-                                    "file": "${packages}/Cycle Through Whitespace/CycleThroughWhitespace.sublime-settings"
+                                    "file": "${packages}/SublimeCycleWhiteSpace/CycleThroughWhitespace.sublime-settings"
                                 },
                                 "caption": "Settings – Default"
                             },
